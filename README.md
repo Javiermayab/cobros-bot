@@ -1,1 +1,1 @@
-# cobros-bot
+# CobrosBot
